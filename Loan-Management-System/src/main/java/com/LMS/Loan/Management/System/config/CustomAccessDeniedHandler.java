@@ -12,7 +12,6 @@ import java.io.OutputStream;
 import java.util.HashMap;
 import java.util.Map;
 
-//@Component
 public class CustomAccessDeniedHandler implements AccessDeniedHandler {
 
     @Override
