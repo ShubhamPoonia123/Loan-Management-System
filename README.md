@@ -55,6 +55,8 @@ server.port = 3333
 then we can simply build and run.
 
 
+** As I have added lombok dependency but this is not working fine due of some issue in my Intellij idea or may be due to some issue of version so I have to add getter and setter manually so my code looking like a bit messay.**
+
 Note-: We can aslo make it like username based accessable in which we just need to pass the token in header and we can fetch username from token and we don't need to pass id's in our all request like for fetching 
 data of a particuler user by sending id in url, we can automatically retrive the data of logged in user.
 
